@@ -1,4 +1,4 @@
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/11whr.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/11whr.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 [![.github/workflows/lint.yaml](https://github.com/whytf/metar/actions/workflows/lint.yaml/badge.svg?branch=main)](https://github.com/whytf/metar/actions/workflows/lint.yaml)
 <h1 align="center">metar.gg</h1>
 <p align="center">🛫☀️🌦</p>
