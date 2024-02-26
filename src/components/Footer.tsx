@@ -17,7 +17,7 @@ const Footer: Component = () => {
 					<A class="mx-auto" href="/about">
 						About
 					</A>
-					<A class="mx-auto" href="https://status.metar.sk">
+					<A class="mx-auto" href="https://status.metar.sk" target="_blank">
 						Status
 					</A>
 					<A class="mx-auto" href="/legal">
@@ -42,7 +42,7 @@ const Footer: Component = () => {
 				</div>
 
 				<div class="flex flex-col items-start gap-4 border-l-gray-400 dark:text-white-light md:flex-row md:border-l md:pl-8">
-					<A href="https://github.com/whytf/metar" class="mx-auto flex gap-2">
+					<A href="https://github.com/whytf/metar" target="_blank" class="mx-auto flex gap-2">
 						<AiOutlineGithub class="my-auto" size={18} />
 						GitHub
 					</A>
