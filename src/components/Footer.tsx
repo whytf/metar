@@ -17,10 +17,6 @@ const Footer: Component = () => {
 					<A class="mx-auto" href="/about">
 						About
 					</A>
-					<A class="mx-auto" href="https://status.metar.sk" target="_blank">
-						Status
-						<FiExternalLink class="my-auto" size={14} />
-					</A>
 					<A class="mx-auto" href="/legal">
 						Legal
 					</A>
@@ -32,6 +28,10 @@ const Footer: Component = () => {
 					</A>
 					<A class="mx-auto" href="/contact">
 						Contact
+					</A>
+					<A class="mx-auto flex gap-1" href="https://status.metar.sk" target="_blank">
+						Status
+						<FiExternalLink class="my-auto" size={14} />
 					</A>
 					<A
 						class="mx-auto flex gap-1"
