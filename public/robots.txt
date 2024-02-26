@@ -1,1 +1,1 @@
-Sitemap: https://metar.gg/sitemap.xml
+Sitemap: https://metar.sk/sitemap.xml
