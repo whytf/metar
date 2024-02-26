@@ -19,6 +19,7 @@ const Footer: Component = () => {
 					</A>
 					<A class="mx-auto" href="https://status.metar.sk" target="_blank">
 						Status
+						<FiExternalLink class="my-auto" size={14} />
 					</A>
 					<A class="mx-auto" href="/legal">
 						Legal
