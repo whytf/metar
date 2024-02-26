@@ -1,5 +1,5 @@
 {
-	"name": "metar.gg",
+	"name": "metar.sk",
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
@@ -8,6 +8,7 @@
 		"build": "vite build",
 		"serve": "vite preview",
 		"generate": "graphql-codegen --config codegen.ts",
+		"update-browser": "npx update-browserslist-db@latest",
 		"lint": "eslint --ext .tsx,.ts src/"
 	},
 	"license": "MIT",
