@@ -14,7 +14,7 @@ const TermsOfUse = () => {
 				<p class="mt-4">
 					All information provided by this website is for informational purposes only. The information is
 					provided by <a href="https://www.ourairports.com/">OurAirports</a> and{' '}
-					<a href="https://www.noaa.gov/">NOAA</a> and while I endeavor to keep the information up to date and
+					<a href="https://www.AviationWeather.gov">AviationWeather.gov</a> and while I endeavor to keep the information up to date and
 					correct, I make no representations or warranties of any kind, express or implied, about the
 					completeness, accuracy, reliability, suitability, or availability concerning the website or the
 					information, products, services, or related graphics contained on the website for any purpose. Any

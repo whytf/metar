@@ -29,6 +29,9 @@ const Footer: Component = () => {
 					<A class="mx-auto" href="/privacy">
 						Privacy policy
 					</A>
+					<A class="mx-auto" href="/contact">
+						Contact
+					</A>
 					<A
 						class="mx-auto flex gap-1"
 						href="https://github.com/whytf/metar/blob/main/LICENSE"

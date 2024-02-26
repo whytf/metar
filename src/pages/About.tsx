@@ -17,7 +17,7 @@ const About = () => {
 					metar.sk is an open source aviation weather app, featuring weather reports and forecasts for about
 					5000 airports. For the airport data it uses the publicly available{' '}
 					<a href="https://www.ourairports.com/">OurAirports</a> database, while the weather data is imported
-					every 2 minutes directly from <a href="https://www.noaa.gov/">NOAA</a>.
+					every 2 minutes directly from <a href="https://AviationWeather.gov">AviationWeather.gov</a>.
 				</p>
 				<p class="mt-4">Features of the app include:</p>
 				<ul class="list-disc pl-6">
