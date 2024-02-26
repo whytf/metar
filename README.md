@@ -1,12 +1,12 @@
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/11whr.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 [![.github/workflows/lint.yaml](https://github.com/whytf/metar/actions/workflows/lint.yaml/badge.svg?branch=main)](https://github.com/whytf/metar/actions/workflows/lint.yaml)
-<h1 align="center">metar.gg</h1>
+<h1 align="center">metar.sk</h1>
 <p align="center">🛫☀️🌦</p>
 <p align="center">Latest worldwide aviation weather</p>
 
 ## What is this?
 
-metar.gg is an app that fetches latest METAR and TAF data from [NOAA](https://www.aviationweather.gov/adds) and presents it in a intuitive way.
+metar.sk is an app that fetches latest METAR and TAF data from [AviationWeather.gov](https://www.aviationweather.gov/adds) and presents it in a intuitive way.
 
 The accompanying Go GraphQL API can be found [here](https://github.com/benjasper/metar.gg-backend).
 
