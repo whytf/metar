@@ -33,13 +33,6 @@ const Footer: Component = () => {
 						Status
 						<FiExternalLink class="my-auto" size={14} />
 					</A>
-					<A
-						class="mx-auto flex gap-1"
-						href="https://github.com/whytf/metar/blob/main/LICENSE"
-						target="_blank">
-						License
-						<FiExternalLink class="my-auto" size={14} />
-					</A>
 				</div>
 
 				<div class="flex flex-col items-start gap-4 border-l-gray-400 dark:text-white-light md:flex-row md:border-l md:pl-8">
