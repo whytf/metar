@@ -1,6 +1,5 @@
 import { Meta } from '@solidjs/meta'
 import Header from '../components/Header'
-import Logo from '../components/Logo'
 import PageContent from '../layouts/PageContent'
 
 const Legal = () => {
