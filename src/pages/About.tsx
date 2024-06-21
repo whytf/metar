@@ -34,26 +34,6 @@ const About = () => {
 					<A href="/terms">disclaimer found here</A>.
 				</p>
 
-				<h2 class="pt-16 text-3xl">Open Source</h2>
-				<p class="mt-4">
-					This is a free and open source project. You can find both the source code for the app as well as the
-					API here:
-				</p>
-				<ul class="mt-4 flex flex-col gap-2 pl-2">
-					<li>
-						<a class="flex gap-2" href="https://github.com/whytf/metar">
-							<AiOutlineGithub class="my-auto" size={24} />
-							<span class="my-auto">Web app</span>
-						</a>
-					</li>
-					<li>
-						<a class="flex gap-2" href="https://github.com/benjasper/metar.gg-backend">
-							<AiOutlineGithub class="my-auto" size={24} />
-							<span class="my-auto">Backend</span>
-						</a>
-					</li>
-				</ul>
-
 				<p class="mt-4">
 					Feel free to contribute or open an issue if you find a bug or have a feature request.
 				</p>
