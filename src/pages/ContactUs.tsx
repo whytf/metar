@@ -19,8 +19,8 @@ const ContactUs = () => {
 				</p>
 				<h2 class="pt-8 text-3xl">Mail</h2>
 				<p>
-					<a class="mt-4 block" href="mailto: lukas@tssk.co.uk">
-						lukas@tssk.co.uk
+					<a class="mt-4 block">
+						lukas at tssk.co.uk
 					</a>
 				</p>
 			</div>

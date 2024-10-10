@@ -2,7 +2,7 @@ import { CodegenConfig } from '@graphql-codegen/cli'
 
 const config: CodegenConfig = {
 	overwrite: true,
-	schema: 'https://api.metar.gg/graphql',
+	schema: 'https://api.metar.sk/graphql',
 	documents: 'src/**/*.tsx',
 	generates: {
 		'src/queries/generated/graphql.ts': {
